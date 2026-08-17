@@ -1,4 +1,4 @@
-<img width="647" height="730" alt="image" src="https://github.com/user-attachments/assets/34677e96-6bc1-4269-b5b4-5f014446f7b4" /><h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name :PRIYANKA P </h3>
 <h3>Register Number: 212224230212</h3>
 <H3>Aim:</H3>
